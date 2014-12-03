@@ -11,8 +11,8 @@ Our Team
 
 | mkhurramali | mzeeshan | zzlalani | riksof-rehan | sharjeelkhan |
 
-![mkhurramali](https://media.licdn.com/mpr/mpr/shrink_240_240/p/4/000/185/10e/26b7b86.jpg) | ![mzeeshan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/02b/208/056fc22.jpg) | ![zzlalani](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/000/212/3f3/1ebbe7a.jpg) | ![riksof-rehan](https://media.licdn.com/media/p/3/000/1d6/261/2cc6061.jpg) |
-![sharjeelkhan](http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/5/005/098/148/1d697bf.jpg)|
+![mkhurramali](http://www.thecreativeblink.com/lead.jpg) | ![mzeeshan](http://www.thecreativeblink.com/d1.jpg) | ![zzlalani](http://www.thecreativeblink.com/d2.jpg) | ![riksof-rehan](http://www.thecreativeblink.com/q1.jpg) |
+![sharjeelkhan](http://www.thecreativeblink.com/d3.jpg)|
 
 M Khurram Ali (Lead)
 =======
