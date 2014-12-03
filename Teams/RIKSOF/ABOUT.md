@@ -1,7 +1,1 @@
-
-Welcome to the base of cubelabs.
-
-About our team
-Srikanth Kasukurthi (http://github.com/srikanthk16) - Lead
-
-We love coding and we will do it on koding.
+<h1 style="font-size:48px; font-family:Arial, Helvetica, sans-serif;">Welcome to Team RIKSOF Page</h1>
